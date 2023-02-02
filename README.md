@@ -14,9 +14,7 @@ Resultado do curso promovido pela freeCode Camp <br/>
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 
 - HTML e CSS
-- JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
